@@ -10,7 +10,7 @@ I'm a CS student who enjoys understanding how systems work under the hood, from 
 Recent coursework has covered **Systems, Networking, Data Structures, Web Apps, and OOP**.
  
 - 🔭 Currently building: **Web App & API-to-Database Pipepine**
-- 📚 Currently learning:
+- 📚 Currently learning: **Research And Professional Practices**
 - 🤝 Open to: **Job opportunities and project collaboration**
 <!-- - 💬 Ask me about: **** -->
 ---
