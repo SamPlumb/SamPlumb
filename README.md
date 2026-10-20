@@ -29,7 +29,6 @@ Recent coursework has covered **Systems, Networking, Data Structures, Web Apps, 
 |---|---|---|---|
 | **First Jump** | My first project experimenting with Pygame to create a simple 2D obstacle jump game | Python, Pygame-ce | [Repo](https://github.com/SamPlumb/Pygame-First-Jump) |
 | **Craftext** | Text-based minecraft insipred short crafting game | Python | [Repo](https://github.com/SamPlumb/Python-CrafText) |
-| **Banking App** | A transaction manager practicing Python OOP techniques | Python | [Repo](https://github.com/SamPlumb/Python_Banking_App) |
   
 ---
  
