@@ -19,7 +19,7 @@ Recent coursework has covered **Systems, Networking, Data Structures, Web Apps, 
  
 **Languages:** Python, SQL, Java, JavaScript
 
-**Tools:** Git, VS Code, Proxmox, Docker
+**Tools:** Git, VS Code/Pycharm, Proxmox, Docker
   
 ---
  
